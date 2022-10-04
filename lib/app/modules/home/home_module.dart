@@ -7,7 +7,7 @@ class HomeModule extends Module {
 
   @override
   final List<ModularRoute> routes = [
-    ChildRoute(Modular.initialRoute, child: (context, args) => const HomePage())
+    ChildRoute('/', child: (context, args) => const HomePage())
   ];
 
 }
