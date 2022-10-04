@@ -1,7 +1,7 @@
 import 'package:micro_app_dependencies/main.dart';
 import 'package:module_home/app/modules/home/_export.dart';
 
-class HomeModuleModule extends Module {
+class HomeModule extends Module {
   @override
   final List<Bind> binds = [];
 

@@ -6,6 +6,6 @@ import 'package:module_home/app/modules/home/home_module.dart';
 void main() {
 
   setUpAll(() {
-    initModule(HomeModuleModule());
+    initModule(HomeModule());
   });
 }
