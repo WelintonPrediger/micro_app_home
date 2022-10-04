@@ -1,1 +1,1 @@
-export 'app/modules/home/_export.dart';
+export 'app/modules/home/home_module.dart';
