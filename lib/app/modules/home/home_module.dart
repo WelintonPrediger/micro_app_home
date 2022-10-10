@@ -1,5 +1,5 @@
 import 'package:micro_app_dependencies/main.dart';
-import 'package:module_home/app/modules/home/_export.dart';
+import 'package:micro_app_home/app/modules/home/_export.dart';
 
 class HomeModule extends Module {
   @override
